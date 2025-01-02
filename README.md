@@ -3,7 +3,7 @@
 I'm a high school student who has loved coding since elementary school! 🎓💻  
 Currently diving deep into the world of:
 
-- 💻 **PHP** & **Laravel**
+- 💻 **PHP** & **Laravel** & **ReactJS**
 - 🌐 **Javascript**, **HTML**, **CSS**
 
 ---
